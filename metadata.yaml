@@ -1,0 +1,45 @@
+_repo: Chaitanya-s-Life-And-TeachingsFrom-his-contemporary-Begali-biography-the-Chaitanya-charit-amr__38016
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sarkar, Jadunath, Sir
+    aliases:
+    - Jadunath Sarkar, Sir
+    - যদুনাথ সরকার
+    birthdate: 1870
+    deathdate: 1958
+    gutenberg_agent_id: '39200'
+    url: http://www.gutenberg.org/2009/agents/39200
+    wikipedia: http://en.wikipedia.org/wiki/Jadunath_Sarkar
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kṛṣṇadāsa Kavirāja Gosvāmi
+    aliases:
+    - Krishnadasa Kaviraja Gosvami
+    - Gosvamin, Krishnadasa Kaviraja
+    - Kaviraja, Krishna das
+    - Goswami, Krishnadas Kaviraj
+    birthdate: 1518
+    gutenberg_agent_id: '39199'
+    url: http://www.gutenberg.org/2009/agents/39199
+    wikipedia: http://en.wikipedia.org/wiki/Krishnadasa_Kaviraja
+description: ''
+gutenberg_issued: '2011-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chaitanya, 1486-1534'
+- !lcc 'BL'
+- !lcsh 'Hinduism'
+title: 'Chaitanya''s Life And Teachings
+
+  From his contemporary Begali biography the Chaitanya-charit-amrita'
+url: http://www.gutenberg.org/ebooks/38016
